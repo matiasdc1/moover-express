@@ -1,0 +1,4 @@
+env.ts
+certificates
+node_modules
+db/setup.sql
